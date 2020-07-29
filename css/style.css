@@ -103,3 +103,12 @@ body{
     width: 30%;
     padding: 2% 5%;
 }
+.section-3{
+    margin-top: 6%;
+}
+.section-3 i{
+    color: #00e8e8;
+}
+.section-3 p{
+    color: rgba(0, 0, 0, 0.59);
+}
